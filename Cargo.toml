@@ -1,0 +1,8 @@
+[package]
+name = "rgb_converter"
+version = "0.1.0"
+authors = ["travis <travis@browser.html>"]
+
+[dependencies]
+toCairo = { path = "toCairo" }
+rustyline = "1.0.0"
